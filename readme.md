@@ -12,6 +12,6 @@
 6. `pip install -r requirements.txt`
    This command will install all the libraries in requirements.txt file
 7. Now create a new file called `.env` and paste this line
-   `GOOGLE_API_KEY="AIzaSyC6UUX-GG64qixY0WF9Md6GDrKAow6qoQA"`
+   `GOOGLE_API_KEY="<your_api_key>"`
 8. After this aaba sabai setup bhayo just run the command below
    `streamlit run chatpdf1.py`
